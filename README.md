@@ -2,7 +2,7 @@
 
 2. Usage: ./blat-statistics path2output.psl path2ref.fa
 
-3. blat-statistics first add two additional coloumns named pid(percent idenity) and score. Methods for calculating pid and core are described on (http://genome.ucsc.edu/FAQ/FAQblat.html#blat4).
+3. blat-statistics first add two additional coloumns named pid(percent idenity) and score. Methods for calculating pid and score are described on [Blat FAQ](http://genome.ucsc.edu/FAQ/FAQblat.html#blat4).
 
 4. Find exes in public directory.
 
