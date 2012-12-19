@@ -30,6 +30,7 @@ x64/
 *.txt
 *.swp
 *.fasta
+*.fa
 [Bb]in
 [Dd]ebug*/
 [Rr]elease*/
